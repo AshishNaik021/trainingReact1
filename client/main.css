@@ -1,0 +1,173 @@
+/* CSS declarations go here */
+
+footer{
+	background: #333;
+	color: #eee;
+	height: 150px;
+	text-align: center;
+	padding-top: 50px;
+	font-size: 21px;
+	width: 100%;
+	float: left;
+}
+
+.navbar{
+	margin-bottom: 0px !important;
+}
+
+.empFormWrapper{
+	min-height: 500px;
+	padding: 50px;
+	background: #ccc;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.empForm{
+	background: #fff;
+	font-size: 18px;
+	padding: 30px;
+	min-height: 200px;
+	margin-bottom: 30px;
+	padding-top: 0px;
+}
+.empForm div{
+	margin-bottom: 10px;
+}
+
+
+.fa-pencil-square-o:hover,
+.fa-trash:hover{
+	color: #f00;
+	font-size : 26px !important;
+	cursor: pointer;
+}
+
+.buttonDiv{
+	padding-top: 50px;
+}
+.buttonDiv button{
+	font-size: 24px;
+}
+
+.homeContent{
+	min-height: 500px;
+	margin-top: -51px;
+}
+.dashboardContent{
+	min-height: 500px;
+	margin-top: -66px;
+}
+
+
+.signUpPageWrapper{
+	background-image: url("images/bg-signup.jpg");
+	background-size: 100% 100%;
+}
+
+
+.fp{
+	text-align: right;
+}
+
+
+.pageWrapper{
+	background: url("images/signupbg.jpg");
+	background-size: 100% 100%;
+	min-height: 600px;
+}
+.pageWrapper2{
+	background: #eee;
+	background-size: 100% 100%;
+	min-height: 600px;
+	padding: 30px;
+}
+
+.signupForm{
+	min-height: 550px;
+	background: #fff;
+	margin-top: 25px;
+	border: 3px solid #5f4a35;
+	box-shadow: 0px 0px 100px #fff;
+}
+
+.pageTitle{
+	text-align: center;
+	background: #5f4a35;
+	color: #fff;
+	height: 66px;
+	margin-top: 10px;
+	width: 105%;
+	margin-bottom: 10px;
+}
+
+.inpField{
+	font-size: 21px;
+	margin-bottom: 10px;
+}
+
+.inpField input{
+	border: 0px;
+	border-bottom: 1px solid #cf4a35;
+}
+
+.inpField button {
+	font-size: 21px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.loginForm{
+	min-height: 250px;
+	background: #fff;
+	margin-top: 100px;
+	border: 3px solid #5f4a35;
+	box-shadow: 0px 0px 100px #fff;	
+}
+
+.edit{
+	color: #00f;
+	cursor: pointer;
+}
+
+.mainBlock{
+	background: #fff;
+	height: 600px;
+	padding: 30px;
+	font-size: 30px;
+	box-shadow: 0px 0px 6px #aaa;
+}
+
+
+.chessBlock{
+	background: #fff;
+	height: 600px;
+	width: 666px;
+	margin-left: 300px;
+	border: 1px solid #00f;
+	padding: 30px;
+	font-size: 30px;
+}
+.chessRow{
+	height: 66px;
+}
+td{
+	padding: 10px;
+	border: 1px solid #00f;
+	text-align: center;
+}
+.dark{
+	background: #666 !important;
+}
+.light{
+	background: #eee !important;
+}
+.dark:hover, 
+.light:hover{
+	background: #aaa !important;
+	cursor: pointer;
+}
+
+.myButton{
+	margin-top: 30px;
+}
